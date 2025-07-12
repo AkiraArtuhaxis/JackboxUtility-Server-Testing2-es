@@ -66,12 +66,12 @@
         },
         "configuration":{
 	        "version_origin":"game_file",
-            "version_file":"jbg.config.jet",
+            "version_file":"config.jet",
             "version_property":"buildVersion",
             "launcher_version_file" : {
-                "steam": "jbg.config.jet",
+                "steam": "config.jet",
                 "epic_games": "config.jet",
-                "native": "jbg.config.jet"
+                "native": "config.jet"
                 }
         },
         "resource_location":{
@@ -87,10 +87,10 @@
                     "name":"Traducción al Español Latino",
                     "small_description":"Este Pack posee 4 de 5 juegos traducidos.\nYou Don't Know Jack 2015 no está traducido.\nDrawful cuenta con doblaje latino.",
                     "description":"",
-                    "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-1-Spanish/releases/latest/download/JPP1-ES.zip",
+                    "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-1-Spanish/releases/latest/download/JPP1-ES-EGS.zip",
                     "configuration": {
 						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-1-Spanish/main/Main/jbg.config.jet",
+						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-1-Spanish/main/ArchivosEGS/config.jet",
 						"version_property":"buildVersion"
 					},
                     "supported_platforms": ["windows","linux","mac"],
@@ -509,12 +509,12 @@
         },
         "configuration":{
 	        "version_origin":"game_file",
-            "version_file":"jbg.config.jet",
+            "version_file":"config.jet",
             "version_property":"buildVersion",
             "launcher_version_file" : {
-                "steam": "jbg.config.jet",
+                "steam": "config.jet",
                 "epic_games": "config.jet",
-                "native": "jbg.config.jet"
+                "native": "config.jet"
                 }
         },
         "resource_location":{
@@ -530,10 +530,10 @@
                     "name":"Traducción al Español Latino",
                     "small_description":"Pack 100% traducido.\nEarwax cuenta con doblaje latino.",
                     "description":"",
-                    "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-2-Spanish/releases/latest/download/JPP2-ES.zip",
+                    "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-2-Spanish/releases/latest/download/JPP2-ES-EGS-SWITCH.zip",
                     "configuration": {
 						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-2-Spanish/main/Main/jbg.config.jet",
+						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-2-Spanish/main/ArchivosEGSySwitch/config.jet",
 						"version_property":"buildVersion"
 					},
                     "supported_platforms": ["windows","linux","mac"],
@@ -1087,12 +1087,12 @@
         },
         "configuration":{
 	        "version_origin":"game_file",
-            "version_file":"jbg.config.jet",
+            "version_file":"config.jet",
             "version_property":"buildVersion",
             "launcher_version_file" : {
-                "steam": "jbg.config.jet",
+                "steam": "config.jet",
                 "epic_games": "config.jet",
-                "native": "jbg.config.jet"
+                "native": "config.jet"
                 }
         },
         "resource_location":{
@@ -1108,10 +1108,10 @@
                     "name":"Traducción al Español Latino",
                     "small_description":"Pack 100% traducido.\n¡Engáñame! cuenta con doblaje latino.",
                     "description":"",
-                    "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-3-Spanish/releases/latest/download/JPP3-ES.zip",
+                    "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-3-Spanish/releases/latest/download/JPP3-ES-EGS-SWITCH.zip",
                     "configuration": {
 						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-3-Spanish/main/Main/jbg.config.jet",
+						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-3-Spanish/main/ArchivosEGSySwitch/config.jet",
 						"version_property":"buildVersion"
 					},
                     "supported_platforms": ["windows","linux","mac"],
@@ -1575,12 +1575,12 @@
         },
         "configuration":{
 	        "version_origin":"game_file",
-            "version_file":"jbg.config.jet",
+            "version_file":"g.config.jet",
             "version_property":"buildVersion",
             "launcher_version_file" : {
-                "steam": "jbg.config.jet",
+                "steam": "config.jet",
                 "epic_games": "config.jet",
-                "native": "jbg.config.jet"
+                "native": "config.jet"
                 }
         },
         "resource_location":{
@@ -1596,10 +1596,10 @@
                     "name":"Traducción al Español Latino",
                     "small_description":"Pack 100% traducido.\nSobrevive al Internet, Monstruo Busca Monstruo y Garabato Cívico cuentan con doblaje latino.",
                     "description":"",
-                    "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-4-Spanish/releases/latest/download/JPP4-ES.zip",
+                    "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-4-Spanish/releases/latest/download/JPP4-ES-EGS-SWITCH.zip",
                     "configuration": {
 						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-4-Spanish/main/Main/jbg.config.jet",
+						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-4-Spanish/main/ArchivosEGSySwitch/config.jet",
 						"version_property":"buildVersion"
 					},
                     "supported_platforms": ["windows","linux","mac"],
@@ -2062,12 +2062,12 @@
         },
         "configuration":{
 	        "version_origin":"game_file",
-            "version_file":"jbg.config.jet",
+            "version_file":"config.jet",
             "version_property":"buildVersion",
             "launcher_version_file" : {
-                "steam": "jbg.config.jet",
+                "steam": "config.jet",
                 "epic_games": "config.jet",
-                "native": "jbg.config.jet"
+                "native": "config.jet"
                 }
         },
         "resource_location":{
@@ -2083,10 +2083,10 @@
                     "name":"Traducción al Español Latino",
                     "small_description":"Pack 100% traducido.\nZeeple Dome y Patentes Dementes cuentan con doblaje latino.",
                     "description":"",
-                    "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-5-Spanish/releases/latest/download/JPP5-ES.zip",
+                    "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-5-Spanish/releases/latest/download/JPP5-ES-EGS-SWITCH.zip",
                     "configuration": {
 						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-5-Spanish/main/Main/jbg.config.jet",
+						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-5-Spanish/main/ArchivosEGSySwitch/config.jet",
 						"version_property":"buildVersion"
 					},
                     "supported_platforms": ["windows","linux","mac"],
@@ -2643,12 +2643,12 @@
         },
         "configuration":{
 	        "version_origin":"game_file",
-            "version_file":"jbg.config.jet",
+            "version_file":"config.jet",
             "version_property":"buildVersion",
             "launcher_version_file" : {
-                "steam": "jbg.config.jet",
+                "steam": "config.jet",
                 "epic_games": "config.jet",
-                "native": "jbg.config.jet"
+                "native": "config.jet"
                 }
         },
         "resource_location":{
@@ -2664,10 +2664,10 @@
                     "name":"Traducción al Español Latino",
                     "small_description":"Pack 100% traducido.\nPulsa el Botón cuenta con doblaje latino.",
                     "description":"",
-                    "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-6-Spanish/releases/latest/download/JPP6-ES.zip",
+                    "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-6-Spanish/releases/latest/download/JPP6-ES-EGS-SWITCH.zip",
                     "configuration": {
 						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-6-Spanish/main/Main/jbg.config.jet",
+						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-6-Spanish/main/ArchivosEGSySwitch/config.jet",
 						"version_property":"buildVersion"
 					},
                     "supported_platforms": ["windows","linux","mac"],
@@ -3135,12 +3135,12 @@
         },
         "configuration":{
 	        "version_origin":"game_file",
-            "version_file":"jbg.config.jet",
+            "version_file":"config.jet",
             "version_property":"buildVersion",
             "launcher_version_file" : {
-                "steam": "jbg.config.jet",
+                "steam": "config.jet",
                 "epic_games": "config.jet",
-                "native": "jbg.config.jet"
+                "native": "config.jet"
                 }
         },
         "resource_location":{
@@ -3156,10 +3156,10 @@
                     "name":"Traducción al Español Latino",
                     "small_description":"Pack 100% traducido.\nLa Familia es un Infierno y Talking Points cuentan con doblaje latino.",
                     "description":"",
-                    "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-7-Spanish/releases/latest/download/JPP7-ES.zip",
+                    "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-7-Spanish/releases/latest/download/JPP7-ES-EGS-SWITCH.zip",
                     "configuration": {
 						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-7-Spanish/main/Main/jbg.config.jet",
+						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-7-Spanish/main/ArchivosEGSySwitch/config.jet",
 						"version_property":"buildVersion"
 					},
                     "supported_platforms": ["windows","linux","mac"],
@@ -3432,10 +3432,10 @@
                     "name":"Cursed Points",
                     "small_description":"¡Mod traducido al español!",
                     "description":"",
-                    "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-7-Spanish/releases/download/8.2b-ES/CursedPointsES-CapyV2-ES.zip",
+                    "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-7-Spanish/releases/download/8.2b-ES/CursedPointsES-CapyV2-ES-EGS-SWITCH.zip",
                     "configuration": {
 						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-7-Spanish/main/CursedPoints/Main/jbg.config.jet",
+						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-7-Spanish/main/CursedPoints/ArchivosEGSySwitch/config.jet",
 						"version_property":"buildVersion"
 					},
                     "supported_platforms": ["windows","linux","mac"],
@@ -4231,12 +4231,12 @@
         },
         "configuration":{
 	        "version_origin":"game_file",
-            "version_file":"jbg.config.jet",
+            "version_file":"config.jet",
             "version_property":"buildVersion",
             "launcher_version_file" : {
-                "steam": "jbg.config.jet",
+                "steam": "config.jet",
                 "epic_games": "config.jet",
-                "native": "jbg.config.jet"
+                "native": "config.jet"
                 }
         },
         "resource_location":{
@@ -4252,10 +4252,10 @@
                     "name":"Traducción al Español Latino",
                     "small_description":"Pack 100% traducido.",
                     "description":"",
-                    "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-8-Spanish/releases/latest/download/JPP8-ES.zip",
+                    "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-8-Spanish/releases/latest/download/JPP8-ES-EGS.zip",
                     "configuration": {
 						"version_origin":"repo_file",
-						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-8-Spanish/main/Main/jbg.config.jet",
+						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-8-Spanish/main/ArchivosEGS/config.jet",
 						"version_property":"buildVersion"
 					},
                     "supported_platforms": ["windows","linux","mac"],
@@ -4741,7 +4741,7 @@
                 "name":"Cambio de dominios a Jackbox.lol",
                 "small_description":"Pack localizado oficialmente en latino y castellano.\nEste parche cambia los dominios a Jackbox.lol y realiza algunas correcciones menores.",
                 "description":"",
-		        "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-9-Spanish/releases/latest/download/JPP9-ES.zip",
+		        "patch_path":"https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-9-Spanish/releases/latest/download/JPP9-ES-EGS-SWITCH.zip",
                 "configuration": {
 						"version_origin":"repo_file",
 						"version_file":"https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-9-Spanish/main/Main/jbg.config.jet",
