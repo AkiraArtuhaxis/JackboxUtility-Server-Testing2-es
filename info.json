@@ -1,0 +1,43 @@
+{
+    "id":"jackbox-es-test2",
+    "name":"Jackbox en español",
+    "description":"¡El servidor de la comunidad de Jackbox en español!",
+    "image":"https://raw.githubusercontent.com/AkiraArtuhaxis/JackboxUtility-Server-es/main/assets/news_images/logo.png",
+
+    "urls":[
+        {
+            "versions":["1.0.0"],
+            "api":"https://raw.githubusercontent.com/AkiraArtuhaxis/JackboxUtility-Server-es/main/api/v2/",
+            "assets":"https://raw.githubusercontent.com/AkiraArtuhaxis/JackboxUtility-Server-es/main/assets"
+        }
+    ],
+    "controller":"jackbox.lol",
+    "languages":["es"],
+    "links": [
+        {
+            "icon":"globe",
+            "url":"https://traducciones.jackbox.lol/",
+            "text":"Sitio web"
+        },
+        {
+            "icon":"discord",
+            "url":"https://discord.com/invite/k8MASuepRw",
+            "text":"Discord"
+        },
+        {
+            "icon":"paypal",
+            "url":"https://www.paypal.com/donate/?hosted_button_id=3ER5926XZCSBW",
+            "text":"Donar"
+        },
+        {
+            "icon":"twitter",
+            "url":"https://twitter.com/esjackbox",
+            "text":"Twitter"
+        },
+        {
+            "icon":"youtube",
+            "url":"https://www.youtube.com/@esjackbox",
+            "text":"YouTube"
+        }
+     ]
+}

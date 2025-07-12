@@ -1,0 +1,19 @@
+{
+    "news":[
+        {
+            "id":"2023-02-22 19:02:14",
+            "title":"Jackbox Utility",
+            "smallDescription":"¡Te damos la bienvenida a la Jackbox Utility!",
+            "content":"# ¡Esto es Jackbox Utility!\n\nEn esta aplicación, puedes parchear juegos y luego ejecutarlos, omitiendo las introducciones y las secciones de menú.\n\nUsando toda clase de filtros y categorías, buscar el juego que deseas jugar nunca ha sido más fácil.\n\n¡Hora de entrar en acción más rápido!",
+            "image":"news_images/sitioweb.png"
+        },
+        {
+            "id":"2023-02-18 14:29:14",
+            "title":"¡Nuestro Discord!",
+            "smallDescription":"¡Únete a nuestro servidor de Discord si quieres jugar partidas o simplemente chatear con otros!",
+            "content":"# ¿Necesitas ayuda? ¿Quieres jugar?\n\n¡Únete al servidor de discord para hacer tus preguntas y jugar con nosotros!\n\n<https://discord.com/invite/k8MASuepRw>",
+            "image":"news_images/discordbanner.png"
+        }
+    ]
+
+}
